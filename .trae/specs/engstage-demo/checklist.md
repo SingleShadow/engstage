@@ -1,0 +1,18 @@
+- [x] Checkpoint 1: 项目初始化成功，Vite + React + Less 环境配置正确
+- [x] Checkpoint 2: 5个场景数据完整（咖啡店点单、餐厅点餐、问路导航、超市购物、英文面试）
+- [x] Checkpoint 3: 语音合成 Hook 正常工作，能播放英文发音
+- [x] Checkpoint 4: 语音识别 Hook 在支持的浏览器中正常工作
+- [x] Checkpoint 5: 模糊匹配算法正确处理大小写和标点差异
+- [x] Checkpoint 6: 对话场景组件正确渲染角色头像和对话气泡
+- [x] Checkpoint 7: 打字跟练模式完整流程可用（选择/输入 → 匹配 → 反馈 → 发音）
+- [x] Checkpoint 8: 语音跟练模式完整流程可用（录音 → 识别 → 评分 → 发音）
+- [x] Checkpoint 9: 分支对话系统正常工作，不同选项触发不同后续对话
+- [x] Checkpoint 10: 首页展示5个场景卡片，点击可进入练习页面
+- [x] Checkpoint 11: 模式切换器正确切换打字/语音模式
+- [x] Checkpoint 12: 数据面板展示完成场景数、练习时长等统计数据
+- [x] Checkpoint 13: localStorage 正确保存和读取用户进度数据
+- [x] Checkpoint 14: 深色主题 + 蓝紫渐变设计风格统一
+- [x] Checkpoint 15: 响应式布局在桌面端和移动端均正常显示
+- [x] Checkpoint 16: `npm run build` 成功完成，无错误
+- [x] Checkpoint 17: 所有页面路由正常工作（首页、练习页、数据面板）
+- [x] Checkpoint 18: 语音模式在不支持的浏览器中自动降级为打字模式
